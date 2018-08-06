@@ -1,6 +1,6 @@
 ## Daniel Ridgway
 
-#####contact: ridginald@gmail.com
+####contact: ridginald@gmail.com
 
 After 14 years working in the media and customer service industry, I'm currently working towards becoming a master coder having just finished at Makers Academy.
 
