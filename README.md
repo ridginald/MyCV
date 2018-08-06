@@ -24,7 +24,7 @@ I have always been keen to explore new ideas and technologies that push me out o
 Curious and passionate about code. Fast, independent learner. OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript. RSpec, Jasmine
 
 | Title | Summary | Technologies Used |
-|--|--|--|--|
+|--|--|--|
 | [Git Jamming](https://github.com/arsalanabc/git-jamming) | Final Project (group) - A web app that allows users to create and share music using MIDI software instruments. </br> Play on [Heroku ](http://gitjamming8.herokuapp.com/azlan.html)</br>| JavaScript, jQuery, HTML/CSS Firebase, Jasmine, Cypress & MIDI |
 | [Makersbnb](https://github.com/simone-smith/makersbnb)| Group project - build an Airbnb clone | BCrypt, Bootstrap, Capybara, PostgreSQL (and TablePlus for GUI), Rake, RSpec, Ruby & Sinatra
 | [Thermostat](https://github.com/ridginald/thermostatJS) | Solo project - build an online thermostat | JavaScript, Jasmine & JQuery |
