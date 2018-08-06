@@ -1,6 +1,6 @@
 ## Daniel Ridgway
 
-####contact: ridginald@gmail.com
+##### contact: ridginald@gmail.com
 
 After 14 years working in the media and customer service industry, I'm currently working towards becoming a master coder having just finished at Makers Academy.
 
@@ -17,9 +17,9 @@ I’m flexible, and always keen to improve and learn new skills on the job whene
 I have always been keen to explore new ideas and technologies that push me out of my comfort zone.
 
 
-###Education
+### Education
 
-#####Makers Academy (May 2018 - August 2018)
+##### Makers Academy (May 2018 - August 2018)
 
 Curious and passionate about code. Fast, independent learner. OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript. RSpec, Jasmine
 
@@ -30,29 +30,29 @@ Curious and passionate about code. Fast, independent learner. OOP, TDD, MVC, DDD
 | [Thermostat](https://github.com/ridginald/thermostatJS) | Solo project - build an online thermostat | JavaScript, Jasmine & JQuery |
 | [Airport Challenge](https://github.com/ridginald/airport_challenge)| Solo project - one of the very first I worked on (be nice!) | Ruby, RSpec, Rake & RuboCop |
 
-#####University of Brighton | City College Brighton and Hove (September 2015 - June 2016)
+##### University of Brighton | City College Brighton and Hove (September 2015 - June 2016)
 
 BA (Hons) Creative Music Production  
 
-#####University of Brighton | City College Brighton and Hove (September 2013 - June 2015)
+##### University of Brighton | City College Brighton and Hove (September 2013 - June 2015)
 
 Foundation Degree Creative Music Production
 
-#####City College Brighton and Hove (September 2002 - June 2003)
+##### City College Brighton and Hove (September 2002 - June 2003)
 Key Skills Level 2
 
-#####City College Brighton and Hove (September 2001 - June 2002)
+##### City College Brighton and Hove (September 2001 - June 2002)
 Key Skills Level 1
 
-###Experience
+### Experience
 
-#####Cute Media Corp. (May 2008 - May 2018)
+##### Cute Media Corp. (May 2008 - May 2018)
 Support Team Supervisor
 
-#####EuroDigital (June 2004 - May 2008)
+##### EuroDigital (June 2004 - May 2008)
 Content Moderator
 
-###Interests
+### Interests
 
 During University I built sound art installations that required working with and merging new and old media - using signal paths within Pure Data and various DAWs to convert live and file based audio for use within interactive sound installations.
 
@@ -60,4 +60,4 @@ Some links, if you fancy a peep:
 
 [Torches](https://www.youtube.com/watch?v=kfrWW8Wllh8&t=90s) | [RadiOSC](https://www.youtube.com/watch?v=A0Oq5hQ7YQs&t=175s) | [Fiducial Marker T-Shirt](https://www.youtube.com/watch?v=I10gI3G30Yc)
 
-#####The End (bye!)
+##### The End (bye!)
