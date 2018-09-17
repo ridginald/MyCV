@@ -46,6 +46,9 @@ Key Skills Level 1
 
 ### Experience
 
+##### Cyclr  (August 2018 - present)
+Connector Developer
+
 ##### Cute Media Corp. (May 2008 - May 2018)
 Support Team Supervisor
 
