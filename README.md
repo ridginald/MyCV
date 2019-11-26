@@ -46,7 +46,10 @@ Key Skills Level 1
 
 ### Experience
 
-##### Cyclr  (August 2018 - present)
+##### 15Gifts  (November 2019 - present)
+Software Development Engineer in Test
+
+##### Cyclr  (August 2018 - September 2019)
 Connector Developer
 
 ##### Cute Media Corp. (May 2008 - May 2018)
