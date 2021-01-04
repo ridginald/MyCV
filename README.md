@@ -2,7 +2,7 @@
 
 ##### contact: ridginald@gmail.com
 
-After 14 years working in the media and customer service industry, I'm working towards becoming a master coder having finished at Makers Academy on May 2018.
+After 14 years working in the media and customer service industry, I'm working towards becoming a master coder having finished at Makers Academy in May 2018.
 
   [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
