@@ -2,7 +2,7 @@
 
 ##### contact: ridginald@gmail.com
 
-After 14 years working in the media and customer service industry, I'm working towards becoming a master coder having finished at Makers Academy in May 2018.
+After 14 years working in the media and customer service industry, I took the plunge and begain working towards becoming a master coder having finished at Makers Academy in May 2018.
 
   [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
@@ -14,7 +14,9 @@ My experiences in providing significant support and cover for management and the
 
 I’m flexible, and always keen to improve and learn new skills on the job whenever necessary - I feel it’s essential to bring new ideas and enthusiasm to any working environment.
 
-I have always been keen to explore new ideas and technologies that push me out of my comfort zone.
+I now have 3+ years experience as a Software Developer/Software Developer in Test, and working experience with: OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript, RSpec, Jasmine. I have extensive experience in building, rebuilding, planning, developing and defining strategy for automated e2e and regression testing suites using: Selenium, Cypress, Testcafe and their relevant dom-testing-framework API, GitHub Actions and its CI/CD workflow. 
+
+I'm comfortable with coaching people, suggesting improvements, and ensuring things run smoothly - a firm believer in refactoring where necessary and ensuring all code is reusable where appropiate. I have always been keen to explore new ideas and technologies that push me out of my comfort zone.
 
 
 ### Education
