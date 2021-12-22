@@ -10,14 +10,13 @@ After 14 years working in the media and customer service industry, I took the pl
 
 During my previous incarnation, I led a number of team based projects, which involved creating and documenting technical work flows for my team - including slick, easy to follow training manuals.
 
-My experiences in providing significant support and cover for management and the Operations Director have allowed me to apply analytical thinking to any project and provide valuable, technical support and data set analysis - always heavily involved in the development and implementing of new projects.
+My experiences in providing significant support and cover for management and the Operations Director have allowed me to apply analytical thinking to any project and provide valuable, technical support and data set analysis - always heavily involved in the development and implementation of new projects.
 
 I’m flexible, and always keen to improve and learn new skills on the job whenever necessary - I feel it’s essential to bring new ideas and enthusiasm to any working environment.
 
-I now have 3+ years experience as a Software Developer/Software Developer in Test, and working experience with: OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript, RSpec, Jasmine. I have extensive experience in building, rebuilding, planning, developing and defining strategy for automated e2e and regression testing suites using: Selenium, Cypress, Testcafe and their relevant dom-testing-framework API, GitHub Actions and its CI/CD workflow. 
+I now have 3+ years experience as a Software Developer/Software Developer in Test, and working experience with: OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript, RSpec, Jasmine. I have extensive experience in building, rebuilding, planning, developing and defining strategy for automated e2e and regression testing suites using: Selenium, Cypress, Testcafe and their relevant dom-testing-framework API, GitHub Actions and its CI/CD workflow.
 
-I'm comfortable with coaching people, suggesting improvements, and ensuring things run smoothly - a firm believer in refactoring where necessary and ensuring all code is reusable where appropiate. I have always been keen to explore new ideas and technologies that push me out of my comfort zone.
-
+I'm comfortable with coaching people, suggesting improvements, and ensuring things run smoothly - a firm believer in refactoring where necessary and ensuring all code is reusable where appropriate. I have always been keen to explore new ideas and technologies that push me out of my comfort zone.
 
 ### Education
 
