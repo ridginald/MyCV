@@ -47,7 +47,13 @@ Key Skills Level 1
 
 ### Experience
 
-##### 15Gifts  (November 2019 - present)
+##### 15Gifts  (July 2022 - present)
+Senior SDET
+
+##### PrimaryBid  (February 2019 - June 2022)
+Senior SDET
+
+##### 15Gifts  (November 2019 - February 2022)
 Software Development Engineer in Test
 
 ##### Cyclr  (August 2018 - September 2019)
