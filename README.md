@@ -27,8 +27,8 @@ Passionate about upskilling teams, teaching & Mentorship; successfully transitio
 
 ### Experience
 
-##### 15Gifts (July 2022 - present)
-Test Automation Lead (November 2023 - present) | Senior SDET (July 2022 - November 2023)
+#### 15Gifts (July 2022 - present)
+##### Test Automation Lead (November 2023 - present) | Senior SDET (July 2022 - November 2023)
 
 Shift-Left Strategy. Exploratory validation for a non-deterministic AI Sales Agent. RAG Validation, AI Quality Engineering, LLM-as-a-Judge
 
@@ -38,18 +38,18 @@ Framework Architecture: Designed and built bespoke automation frameworks from th
 
 Leadership: Manage the Quality Roadmap; mentor junior/mid-level QEs through structured pairing, teaching, and architectural reviews
 
-##### PrimaryBid (February 2019 - June 2022)
-Senior SDET
+#### PrimaryBid (February 2019 - June 2022)
+##### Senior SDET
 
 Designed and maintained complex e2e suites for high-stakes financial transaction flows using Selenium, and CI/CD integration with Gitlab
 
-##### 15Gifts (November 2019 - February 2022)
-SDET
+#### 15Gifts (November 2019 - February 2022)
+##### SDET
 
 Established the initial automation strategy, transitioning the organisation from manual processes to a unified automated e2e and regression suite
 
-##### Cyclr (August 2018 - September 2019)
-Connector Developer
+#### Cyclr (August 2018 - September 2019)
+##### Connector Developer
 
 Developed API connectors, ensuring data mapping integrity across third-party integrations
 
