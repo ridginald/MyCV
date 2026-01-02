@@ -1,76 +1,56 @@
 ## Daniel Ridgway
 
-##### contact: ridginald@gmail.com
+#### Team Lead | Quality Engineer | Automation
 
-After 14 years working in the media and customer service industry, I took the plunge and begain working towards becoming a master coder having finished at Makers Academy in May 2018.
+##### contact: ridginald@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniel-ridgway-7a4794bb)
 
-  [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+  [Summary](#summary) | [Core Technical Toolkit](#coretechnicaltoolkit) | [Experience](#experience) | [Interests](#interests) |
 
-### Skills
+### Summary
+Strategic Lead Quality Engineer with over 7 years of experience architecting automation frameworks from scratch and scaling quality cultures. Expert in TypeScript/JavaScript ecosystems with a deep focus on Shift-Left, Contract Testing (Pact), and Risk-Based organisational strategies
 
-During my previous incarnation, I led a number of team based projects, which involved creating and documenting technical work flows for my team - including slick, easy to follow training manuals.
+#### Core Technical Toolkit
+Languages: TypeScript, JavaScript, Ruby, Python
 
-My experiences in providing significant support and cover for management and the Operations Director have allowed me to apply analytical thinking to any project and provide valuable, technical support and data set analysis - always heavily involved in the development and implementation of new projects.
+Automation: Playwright, Cypress, Selenium, Testcafe, Appium, Framework Design from Scratch
 
-I’m flexible, and always keen to improve and learn new skills on the job whenever necessary - I feel it’s essential to bring new ideas and enthusiasm to any working environment.
+AI/LLM Testing: RAG Validation, LLM-as-a-Judge, Red-Teaming, Semantic Similarity
 
-I now have 3+ years experience as a Software Developer/Software Developer in Test, and working experience with: OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript, RSpec, Jasmine. I have extensive experience in building, rebuilding, planning, developing and defining strategy for automated e2e and regression testing suites using: Selenium, Cypress, Testcafe and their relevant dom-testing-framework API, GitHub Actions and its CI/CD workflow.
+Infrastructure: CI/CD (GitHub Actions, Gitlab), Contract Testing (Pact/Pactflow), Performance and Load Testing
 
-I'm comfortable with coaching people, suggesting improvements, and ensuring things run smoothly - a firm believer in refactoring where necessary and ensuring all code is reusable where appropriate. I have always been keen to explore new ideas and technologies that push me out of my comfort zone.
+Leadership: Mentorship, Pairing, Teaching, QE Strategy & Roadmapping
 
-### Education
+#### Key Expertise & Impact
+Proven ability to organize testing around business risk, allowing for leaner, more effective test suites and faster time-to-market
 
-##### Makers Academy (May 2018 - August 2018)
-
-Curious and passionate about code. Fast, independent learner. OOP, TDD, MVC, DDD. Agile/XP. Ruby, Rails, JavaScript. RSpec, Jasmine
-
-| Title | Summary | Technologies Used |
-|--|--|--|
-| [Git Jamming](https://github.com/arsalanabc/git-jamming) | Final Project (group) - A web app that allows users to create and share music using MIDI software instruments. </br> Play on [Heroku ](http://gitjamming8.herokuapp.com/azlan.html)</br>| JavaScript, jQuery, HTML/CSS Firebase, Jasmine, Cypress & MIDI |
-| [Makersbnb](https://github.com/simone-smith/makersbnb)| Group project - build an Airbnb clone | BCrypt, Bootstrap, Capybara, PostgreSQL (and TablePlus for GUI), Rake, RSpec, Ruby & Sinatra
-| [Thermostat](https://github.com/ridginald/thermostatJS) | Solo project - build an online thermostat | JavaScript, Jasmine & JQuery |
-| [Airport Challenge](https://github.com/ridginald/airport_challenge)| Solo project - one of the very first I worked on (be nice!) | Ruby, RSpec, Rake & RuboCop |
-
-##### University of Brighton | City College Brighton and Hove (September 2015 - June 2016)
-
-BA (Hons) Creative Music Production  
-
-##### University of Brighton | City College Brighton and Hove (September 2013 - June 2015)
-
-Foundation Degree Creative Music Production
-
-##### City College Brighton and Hove (September 2002 - June 2003)
-Key Skills Level 2
-
-##### City College Brighton and Hove (September 2001 - June 2002)
-Key Skills Level 1
+Passionate about upskilling teams, teaching & Mentorship; successfully transitioned multiple manual testers into SDET/QE focussed roles through dedicated coaching
 
 ### Experience
 
 ##### 15Gifts  (July 2022 - present)
-Senior SDET
+Test Automation Lead (November 2023 - present) | Senior SDET (July 2022 - November 2023)
+
+Shift-Left Strategy. Exploratory validation for a non-deterministic AI Sales Agent. RAG Validation, AI Quality Engineering, LLM-as-a-Judge
+
+Contract Testing: Leading company-wide adoption of Pact, reducing integration defects and enabling independent service deployments
+
+Framework Architecture: Designed and built bespoke automation frameworks from the ground up, with a focus on developer experience and CI/CD velocity
+
+Leadership: Manage the Quality Roadmap; mentor junior/mid-level QEs through structured pairing, teaching, and architectural reviews
 
 ##### PrimaryBid  (February 2019 - June 2022)
 Senior SDET
+Designed and maintained complex e2e suites for high-stakes financial transaction flows using Selenium, and CI/CD integration with Gitlab
 
 ##### 15Gifts  (November 2019 - February 2022)
-Software Development Engineer in Test
+SDET
+Established the initial automation strategy, transitioning the organisation from manual processes to a unified automated e2e and regression suite
 
 ##### Cyclr  (August 2018 - September 2019)
 Connector Developer
+Developed API connectors, ensuring data mapping integrity across third-party integrations
 
-##### Cute Media Corp. (May 2008 - May 2018)
-Support Team Supervisor
+### Education
+Makers Academy | Software Development Bootcamp (2018)
 
-##### EuroDigital (June 2004 - May 2008)
-Content Moderator
-
-### Interests
-
-During University I built sound art installations that required working with and merging new and old media - using signal paths within Pure Data and various DAWs to convert live and file based audio for use within interactive sound installations.
-
-Some links, if you fancy a peep:
-
-[Torches](https://www.youtube.com/watch?v=kfrWW8Wllh8&t=90s) | [RadiOSC](https://www.youtube.com/watch?v=A0Oq5hQ7YQs&t=175s) | [Fiducial Marker T-Shirt](https://www.youtube.com/watch?v=I10gI3G30Yc)
-
-##### The End (bye!)
+University of Brighton | BA (Hons) Creative Music Production
