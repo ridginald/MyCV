@@ -4,8 +4,6 @@
 
 ##### contact: ridginald@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniel-ridgway-7a4794bb)
 
-  [Summary](#summary) | [Core Technical Toolkit](#coretechnicaltoolkit) | [Experience](#experience) | [Interests](#interests) |
-
 ### Summary
 Strategic Lead Quality Engineer with over 7 years of experience architecting automation frameworks from scratch and scaling quality cultures. Expert in TypeScript/JavaScript ecosystems with a deep focus on Shift-Left, Contract Testing (Pact), and Risk-Based organisational strategies
 
